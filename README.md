@@ -40,7 +40,7 @@ Performance of part of speech feature set on all tweets
 ![pos feature set](https://github.com/ayesha92ahmad/NLP-sentiment-classification/blob/master/images/pos-feat-set.png)
 
 Performance of subjective lexicon feature set on all tweets with K fold cross validation
-![subjective lexicon feature set on all tweets with K fold cross validation](https://github.com/ayesha92ahmad/NLP-sentiment-classification/blob/master/images/kfold-sl-doc-pos.png
+![subjective lexicon feature set on all tweets with K fold cross validation](https://github.com/ayesha92ahmad/NLP-sentiment-classification/blob/master/images/kfold-sl-doc-pos.png)
 
 
 Performance of subjective lexicon feature set on all tweets with K fold cross validation
